@@ -1,0 +1,36 @@
+{
+    "guilds": {
+        "main": 1192011185978097694
+    },
+    
+    "gender_roles": {
+        "man": 1192019908368801862,
+        "woman": 1192020005953474612
+    },
+
+    "roles": {
+        "refusal": 1201940321848528946,
+        "support": 1192887536503238818,
+        "unvf": 1192018092373581834
+    },
+
+    "rolesFS": {
+        "developer": 1193123540522774628,
+        "staff": {
+            "Staff": 1193247268699131904,
+            "Moderator": 1193123956824211467,
+            "Control": 1193540510795706470,
+            "Support": 1192887536503238818,
+            "Media": 1192017081093337170,
+            "Broadcaster": 1193505537371930685,
+            "Helper": 1193247640524181625
+        }
+    },
+
+    "developerAvatar": "https://images-ext-1.discordapp.net/external/zig4rKdiOJUnR4dR4tDoVJe11kUPtB-jNt5pWy-2SKE/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1167751535778869288/59fab823cc14578142524c2425f1bff2.png?format=webp&quality=lossless",
+
+    "channelsFS": {
+        "channelWS": 1192014621742223370,
+        "channelWSM": 1193548979728830525
+    }
+}
